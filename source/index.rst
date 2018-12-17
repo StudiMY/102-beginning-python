@@ -10,6 +10,7 @@ Welcome to Python For Beginners 102 documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   credits/index
    data_structure/index
    looping/index
 

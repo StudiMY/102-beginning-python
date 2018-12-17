@@ -57,6 +57,13 @@ Problem Solving
 5. In the ``for`` loop example, ``words`` and ``range()`` are considered iterables. What are iterables? 
 6. Can you give another examples of iterables? Hint: "hello world" 
 
+.. topic:: FAQ / Fun Facts
+
+    | 1. ``else`` in ``for`` loop?
+
+    | Python also allows us to use the else condition with for loops. The else block just after for/while is executed only when the loop is **NOT** terminated by a break statement. Such type of else is useful only if there is an if condition present inside the loop which somehow depends on the loop variable.
+
+
 Critical Thinking - Discussions
 --------------------------------
 Type some code examples below in IDLE. Some are good examples, some are not. Compare them and think about 
