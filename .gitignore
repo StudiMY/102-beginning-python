@@ -1,5 +1,4 @@
 build/
 env/
-source/_static/
 .DS_Store
 .vscode
