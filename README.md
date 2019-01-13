@@ -4,6 +4,9 @@ The curriculum for studi.my: Beginning Python, 2nd Part
 This is the curriculum material to learn basic Python programming.
 Table Of Contents:
 
+- Data structures
+- Looping
+
 ## Copyright and licenses
 
 Copyright 2018 MARIMORE ENGINEERING SDN. BHD. (925539-H)
