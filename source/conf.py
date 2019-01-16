@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python For Beginners'
-copyright = '2018, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
+project = 'The StudiMY Project - 102 Python For Beginners'
+copyright = '2019, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
 author = 'Chee Yim Goh'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = ''
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
